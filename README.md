@@ -17,7 +17,7 @@ Our mission: to find a correlation, or lack thereof, between these financial var
 * Homepage
 ![Homepage.png](https://github.com/PeiDay/Student_Performance_Analysis_II/blob/main/static/images/homepage.png)
 
-* State Analysis
+* State Analysis Dashboard
 ![Dashboard_1.png](https://github.com/PeiDay/Student_Performance_Analysis_II/blob/main/static/images/dashboard_1.png)
 
 
