@@ -76,6 +76,7 @@ function drawRegScatter(data, regChart)
       }
     },
     xAxis: {
+      // min: ,
       splitLine: {
         lineStyle: {
           type: 'dashed'
@@ -84,7 +85,7 @@ function drawRegScatter(data, regChart)
     },
     yAxis:[
     {
-      min: 180,
+      min: 220,
 
     }, 
     {

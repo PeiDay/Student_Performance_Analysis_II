@@ -104,7 +104,7 @@ $.get(geoUSAurl, function (usaJson) {
         tooltip: {
             trigger: 'item',
             showDelay: 0,
-            transitionDuration: 0.2,
+            transitionDuration: 0.5,
             formatter: function (params) {
               const value = (params.value + '').split('.');
               const valueStr = value[0].replace(
