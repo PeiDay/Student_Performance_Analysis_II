@@ -14,8 +14,8 @@ app = Flask(__name__)
 # home page route
 
 @app.route("/")
-def homepage():
-    return render_template("homepage.html")
+def landing():
+    return render_template("Diagram.html")
 
 @app.route("/homepage.html")
 def motivation():
